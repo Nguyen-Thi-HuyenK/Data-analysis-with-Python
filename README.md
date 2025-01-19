@@ -1,4 +1,4 @@
-# Data-Analysis-with-Python
+# Data-Colection & Analysis-with-Python
 
 This repository contains materials and assignments for the **Applied physics in programming** course at Oulu University of Applied Sciences (OAMK). 
 
